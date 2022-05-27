@@ -55,7 +55,7 @@ Download all codes and resources of Web UI.Then,push it to Qualcomm® CM2290 dev
 
 ## Compile and build
 
-The compilation of the whole project is based on the yocto compilation tool, so you need to write some .bb and .conf files according to the specification. The link is [wifi_led_0.1.bb](https://github.com/ThunderSoft-XA/C610-FaceMaskDetect-demo/blob/master/CM2290-WifiLed-demo/wifi_led_0.1.bb) example.
+The compilation of the whole project is based on the yocto compilation tool, so you need to write some .bb and .conf files according to the specification. The link is [wifi_led_0.1.bb](./wifi_led_0.1.bb) example.
 
 Please refer to [the official Manual of Yocto](https://www.yoctoproject.org) for how to add layers,write layer.conf .Then,excute the command as follows:
 
