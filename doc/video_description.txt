@@ -1,0 +1,1 @@
+This video shows the complete process of establishing wifi AP and mqtt broker, connecting to wifi and accessing Web UI, and enabling hardware control client to connect and control LED lights through WebUI.
